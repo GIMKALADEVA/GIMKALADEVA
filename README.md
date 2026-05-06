@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GIMKALADEVA
 - 👀 I’m interested in ...java programming
-- 🌱 I’m currently learning ...btech
-- 💞️ I’m looking to collaborate on ...microsoft
+- 🌱 I’m currently working as java full stack developer.
+- 💞️ I’m looking to collaborate on ...microservices
 - 📫 How to reach me ...
 
 <!---
